@@ -1,0 +1,8 @@
+Software requirements:
+• Tensorflow and keras
+• Tkinter
+• Googletrans
+• playsound
+• Spyder
+• numpy
+• cv2
